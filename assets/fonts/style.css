@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'ariblk';
+   font-display: swap;
+   src: url('ariblk/font.ttf');
+}
+@font-face {
+   font-family: 'arial';
+   font-display: swap;
+   src: url('arial/font.ttf');
+}
